@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/avatar-tool/static/css/main.3d7eddbf.chunk.css",
-    "main.js": "/avatar-tool/static/js/main.8a81ab3a.chunk.js",
-    "main.js.map": "/avatar-tool/static/js/main.8a81ab3a.chunk.js.map",
-    "runtime-main.js": "/avatar-tool/static/js/runtime-main.cc0343f9.js",
-    "runtime-main.js.map": "/avatar-tool/static/js/runtime-main.cc0343f9.js.map",
+    "main.css": "/avatar-tool/static/css/main.2d0cd81b.chunk.css",
+    "main.js": "/avatar-tool/static/js/main.fd0ce122.chunk.js",
+    "main.js.map": "/avatar-tool/static/js/main.fd0ce122.chunk.js.map",
+    "runtime-main.js": "/avatar-tool/static/js/runtime-main.425466a8.js",
+    "runtime-main.js.map": "/avatar-tool/static/js/runtime-main.425466a8.js.map",
     "static/css/2.1e58ee36.chunk.css": "/avatar-tool/static/css/2.1e58ee36.chunk.css",
-    "static/js/2.37daaa5d.chunk.js": "/avatar-tool/static/js/2.37daaa5d.chunk.js",
-    "static/js/2.37daaa5d.chunk.js.map": "/avatar-tool/static/js/2.37daaa5d.chunk.js.map",
-    "static/js/3.441bdd85.chunk.js": "/avatar-tool/static/js/3.441bdd85.chunk.js",
-    "static/js/3.441bdd85.chunk.js.map": "/avatar-tool/static/js/3.441bdd85.chunk.js.map",
+    "static/js/2.66a55d89.chunk.js": "/avatar-tool/static/js/2.66a55d89.chunk.js",
+    "static/js/2.66a55d89.chunk.js.map": "/avatar-tool/static/js/2.66a55d89.chunk.js.map",
+    "static/js/3.45a776bc.chunk.js": "/avatar-tool/static/js/3.45a776bc.chunk.js",
+    "static/js/3.45a776bc.chunk.js.map": "/avatar-tool/static/js/3.45a776bc.chunk.js.map",
     "index.html": "/avatar-tool/index.html",
     "static/css/2.1e58ee36.chunk.css.map": "/avatar-tool/static/css/2.1e58ee36.chunk.css.map",
-    "static/css/main.3d7eddbf.chunk.css.map": "/avatar-tool/static/css/main.3d7eddbf.chunk.css.map",
-    "static/js/2.37daaa5d.chunk.js.LICENSE.txt": "/avatar-tool/static/js/2.37daaa5d.chunk.js.LICENSE.txt"
+    "static/css/main.2d0cd81b.chunk.css.map": "/avatar-tool/static/css/main.2d0cd81b.chunk.css.map",
+    "static/js/2.66a55d89.chunk.js.LICENSE.txt": "/avatar-tool/static/js/2.66a55d89.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc0343f9.js",
+    "static/js/runtime-main.425466a8.js",
     "static/css/2.1e58ee36.chunk.css",
-    "static/js/2.37daaa5d.chunk.js",
-    "static/css/main.3d7eddbf.chunk.css",
-    "static/js/main.8a81ab3a.chunk.js"
+    "static/js/2.66a55d89.chunk.js",
+    "static/css/main.2d0cd81b.chunk.css",
+    "static/js/main.fd0ce122.chunk.js"
   ]
 }
