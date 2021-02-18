@@ -1,0 +1,16 @@
+.App {
+
+}
+
+.ant-row {
+    line-height: 32px;
+    margin-top: 8px;
+}
+
+.ant-row .ant-col-6 {
+    text-align: right;
+}
+
+.ant-popover-inner-content {
+    padding: 0!important;
+}
